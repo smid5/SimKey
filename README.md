@@ -1,4 +1,10 @@
-# SimKey: A Semantically Aware Key Module for Watermarking Language Models
+<div align="center">
+  <h1>SimKey: A Semantically Aware Key Module for Watermarking Language Models</h1>
+  
+  <img src="simkey.png" width="100%" height="75%" style="display:block; margin:auto;">
+</div>
+
+---
 
 ## Quick Start
 
