@@ -1,0 +1,13 @@
+seaborn
+numpy
+torch
+transformers
+scipy
+scienceplots
+sentence-transformers
+sentencepiece
+python-Levenshtein
+nltk
+datasets
+python-dotenv
+autoawq
