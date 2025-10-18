@@ -80,3 +80,20 @@ This section contains information about three Python scripts for analyzing the s
     - WaterMax with standard hashing
 - **Output:** Saves a plot displaying the relationship between sentence length and TPRs.
 
+
+## Citation
+
+If you find this work useful for your research, please consider citing our paper:
+
+
+```
+@misc{kodama2025simkeysemanticallyawarekey,
+      title={SimKey: A Semantically Aware Key Module for Watermarking Language Models}, 
+      author={Shingo Kodama and Haya Diwan and Lucas Rosenblatt and R. Teal Witter and Niv Cohen},
+      year={2025},
+      eprint={2510.12828},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2510.12828}, 
+}
+```
